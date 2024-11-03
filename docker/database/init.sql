@@ -1,0 +1,1 @@
+CREATE TABLE people(id int auto_increment primary key ,firstname varchar(50) not null,lastname varchar(50) not null,age int not null,ssn varchar(10) not null);
